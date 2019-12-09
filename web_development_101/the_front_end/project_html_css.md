@@ -2698,6 +2698,8 @@ Submit a pull request with a link to your solution in this [file](https://github
 * [JDPescosta's Solution (Easy)](https://github.com/JDPescosta/html-css-project) - [View in Browser](https://jdpescosta.github.io/html-css-project/)
 * [JustCourt's Solution (Easy)](https://github.com/JustCourt/google-homepage) - [View in Browser](https://justcourt.github.io/google-homepage/)
 * [MattSwinney's Solution (Easy)](https://github.com/swinney2/google-homepage) - [View in Browser](https://swinney2.github.io/google-homepage/)
+* [Kommnenos' Solution (Easy)](https://github.com/Kommnenos/google-homepage) - [View in Browser](https://kommnenos.github.io/google-homepage/)
+
 </details>
 
 ### Additional Resources
